@@ -1,0 +1,14 @@
+[
+  {
+    "type": "Correio",
+    "price": 25.99
+  },
+  {
+    "type": "Transportadora",
+    "price": 9.99
+  },
+  {
+    "type": "Motoboy",
+    "price": 2.99
+  }
+]
